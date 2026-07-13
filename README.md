@@ -1,7 +1,5 @@
 [github_profile_README.md](https://github.com/user-attachments/files/29964363/github_profile_README.md)
 ## Hi there 👋
-
-<!--
 **aromalrm/aromalrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
